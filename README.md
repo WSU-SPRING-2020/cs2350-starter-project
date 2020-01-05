@@ -20,6 +20,6 @@ Run the following to start the local development server:
 npm run live
 ```
 
-Visit http://localhost:8080/ in your browser (Chrome and/or Firefox are recommended) to view your site.
+Visit http://localhost:8080/ in your browser (Chrome and/or Firefox are recommended) to view your site. With the development server running, any change you make is compiled and seen automatically in the browser.
 
 **NOTE**: All your HTML/CSS/Javascript code should go into the correct files under the `src` folder and not under `dist` folder. The contents of the `dist` folder are what gets deployed to the server and rendered to the browser; they from compiling the `src` folder. 
