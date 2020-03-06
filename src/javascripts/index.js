@@ -5,4 +5,3 @@ require.context('../stylesheets/', true, /\.(css|scss)$/i)
 
 // JavaScript
 //TODO
-import _ from 'lodash'
